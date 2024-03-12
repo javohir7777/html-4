@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: #890d4f;
+
+  padding: 20px 0 20px 0;
+  text-align: center;
+}
+a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+  width: 100%;
+}
+.sectionAndAside {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: #87cbda;
+  padding: 20px 0 20px 0;
+}
+.macImg1 {
+  width: 400px;
+}
+.sectionAndAside2 {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0 70px 0;
+  gap: 20px;
+}
+
+.macImg2 {
+  width: 450px;
+}
+.sectionText {
+  width: 500px;
+}
